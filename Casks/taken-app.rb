@@ -1,6 +1,6 @@
 cask "taken-app" do
-  version "0.0.2"
-  sha256 "159286bb6057c6504e80e746ef3d4ea990c6d15187eeb4893ef1a303d9b6a7aa"
+  version "0.0.3"
+  sha256 "d22a5e202baf92fe11007ea54751e4522c33d81eaf70a294553c6504045f37e9"
 
   url "https://github.com/plainwork/taken/releases/download/v#{version}/Taken-#{version}.zip"
   name "Taken"
